@@ -9,13 +9,12 @@ Data analyst with a five years of expertise gathering, organizing, and analyzin
 `R/RStudio (data cleaning, wrangling, ggplot, rmarkdown, and poster), Python, SQL, STATA, Microsoft Office, Project and Excel, Econometrics, Regression Analysis, Logical Framework`
 
 **Education**
-```School of International Service (SIS), American University                                                                          Washington DC, USA
+School of International Service (SIS), American University                                                                          Washington DC, USA
 Master of Arts: International Economic Relations – Quantitative Methods	    2022 - 2024
 
 Ghent University and Roskilde University (European Union Scholarship)                                                                      Ghent, Belgium
 Master of Arts: Erasmus Mundus Global Studies	                              2018 – 2020 
 
-```
 **Experience**
 **School of International Service (SIS), American University**                                                                         Washington DC, USA
 Research Assistant                                                                                                                 January 2023 – Ongoing
@@ -59,6 +58,16 @@ Program Support                                                                 
 •	Interests:  Cycling, Travelling, Political Philosophy, Football, Music
 •	Publications: https://www.linkedin.com/in/sisir-bhandari-safal-a21161121/details/publications/  
  
+
+
+
+
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/123516904/237018393-f351d31f-175e-4923-9ae3-fe46d7ee8f71.png)
 
