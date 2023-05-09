@@ -1,4 +1,4 @@
- ```
+
 **SISIR BHANDARI**
 Bethesda, Maryland | +1 24 053 48032 | `skglieoier@gmail.com` | LinkedIn
 
@@ -40,7 +40,7 @@ Junior Research Fellow                                                          
 •	Planned, designed and implemented research on EU and South Asian climate governance and macroeconomic indicators, interviewed relevant stakeholders, and analyzed global climate-induced disaster data using STATA and RStudio.
 
 •	Kept track of European progress on water policy initiatives and identified key issues related to food and water security regionally and globally. 
-```
+
 
 **Emergency Architecture and Human Rights**                                                                                           Copenhagen, Denmark
 
