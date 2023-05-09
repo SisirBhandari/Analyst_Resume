@@ -5,8 +5,8 @@ Bethesda, Maryland | +1 24 053 48032 | `skglieoier@gmail.com` | LinkedIn
 **SUMMARY**                                                         
 Data analyst with a five years of expertise gathering, organizing, and analyzing massive datasets identifying trends and patterns. Adept at using cutting-edge statistical methods and tools for data visualization to provide valuable insights to important stakeholders. Excel, Python, RStudio, and SQL expert with a track record of enhancing corporate processes and generating revenue growth. a proactive problem-solver with excellent communication abilities and the capacity to thrive in a hectic atmosphere with strict deadlines.
 
-TECHNICAL SKILLS
-R/RStudio (data cleaning, wrangling, ggplot, rmarkdown, and poster), STATA, Microsoft Office, Microsoft Project and Excel, Econometrics, Regression Analysis, Logical Framework
+**TECHNICAL SKILLS**
+`R/RStudio (data cleaning, wrangling, ggplot, rmarkdown, and poster), Python, SQL, STATA, Microsoft Office, Project and Excel, Econometrics, Regression Analysis, Logical Framework`
 
 EDUCATION
 School of International Service (SIS), American University                                                                          Washington DC, USA
