@@ -13,7 +13,7 @@ Data analyst with a five years of expertise gathering, organizing, and analyzin
 Master of Arts: International Economic Relations – Quantitative Methods	    2022 - 2024
 
 Ghent University and Roskilde University (European Union Scholarship)                                                                      Ghent, Belgium
-Master of Arts: Erasmus Mundus Global Studies	                              2018 – 2020```
+Master of Arts: Erasmus Mundus Global Studies	                              2018 – 2020 ```
 
 **Experience**
 School of International Service (SIS), American University                                                                          Washington DC, USA
