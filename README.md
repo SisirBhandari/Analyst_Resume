@@ -1,12 +1,12 @@
  
 Bethesda, Maryland | +1 24 053 48032 | sisirbhandari1@gmail.com | LinkedIn
 
-SUMMARY
+                                                                      **SUMMARY**
 •	International Economic Relations graduate student with over four years of international development experience. 
 •	Major strengths include designing and implementing programs, policy and data analysis, resulting in successful research, program management and building a knowledge database. 
 •	Proven understanding of global development discourses, South Asian political economy, and multilateral governance issues. Recognized as a dedicated team player and reflective person in multicultural settings.
  
-TECHNICAL SKILLS
+                                                                    **TECHNICAL SKILLS**
 R/RStudio (data cleaning, wrangling, ggplot, rmarkdown, and poster), STATA, Microsoft Office, Microsoft Project and Excel, Econometrics, Regression Analysis, Logical Framework
 
 EDUCATION
