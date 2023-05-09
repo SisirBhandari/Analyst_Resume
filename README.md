@@ -60,14 +60,3 @@ Program Support                                                                 
  
 
 
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/123516904/237018393-f351d31f-175e-4923-9ae3-fe46d7ee8f71.png)
-
